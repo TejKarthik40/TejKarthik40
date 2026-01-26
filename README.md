@@ -13,8 +13,9 @@
 </p>
 
 <p align="center">
-  <b>🔎 Open to Internships & Software Engineering Opportunities</b>
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Opportunities-brightgreen?style=flat-square" />
 </p>
+
 
 ---
 
