@@ -1,12 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Nadella%20Tej%20Karthik&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Full%20Stack&descAlignY=70"/>
-</p>
+<h1 align="center">Hi 👋, I'm Nadella Tej Karthik</h1>
+<h3 align="center">Data Science • Machine Learning • Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nadella+Tej+Karthik;Data+Science+%26+Full+Stack+Developer;3rd+Year+CSE+%28Data+Science%29+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=3rd+Year+CSE+%28Data+Science%29+Student;Passionate+about+AI%2C+ML+and+Web+Development;Building+Scalable+and+Intelligent+Systems" />
 </p>
-
-<h3 align="center">🚀 Data Science • Machine Learning • Full-Stack Development</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/nadella-tej-karthik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a>
