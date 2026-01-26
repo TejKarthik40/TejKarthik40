@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Nadella%20Tej%20Karthik&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20Full%20Stack%20Developer&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Nadella%20Tej%20Karthik&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Full%20Stack&descAlignY=70"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nadella+Tej+Karthik;Data+Science+%26+Full+Stack+Developer;3rd+Year+CSE+%28Data+Science%29+Student;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nadella+Tej+Karthik;Data+Science+%26+Full+Stack+Developer;3rd+Year+CSE+%28Data+Science%29+Student" />
 </p>
 
-<h2 align="center">🚀 Data Science • Machine Learning • Full-Stack Development</h2>
+<h3 align="center">🚀 Data Science • Machine Learning • Full-Stack Development</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/nadella-tej-karthik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a>
@@ -21,24 +21,41 @@
 
 🎓 3rd Year B.Tech in **CSE (Data Science)** at **PVP Siddhartha Institute of Technology**  
 ⭐ CGPA: **9.33 / 10**  
-💡 Passionate about **Data Science, ML & Full-Stack Systems**  
+💡 Interested in **Data Science, Machine Learning & Scalable Web Systems**  
 🏆 Top **12.69%** on LeetCode | MERN Ideathon Runner-Up  
 
 ---
 
-### ⚡ Tech Focus
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js,react,nodejs,express,mongodb,mysql,aws,git" />
-</p>
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**Web & Backend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+
+**Data & ML**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Databases & Tools**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
 ### 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TejKarthik40&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejKarthik40&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TejKarthik40&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejKarthik40&theme=tokyonight&hide_border=true" width="47%"/>
 </p>
 
 <p align="center">
@@ -58,12 +75,13 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TejKarthik40&label=Visitors&color=58A6FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=TejKarthik40&label=Profile%20Views&color=58A6FF&style=flat" />
 </p>
 
 <p align="center">
   <i>“Building intelligent systems. Writing clean code. Growing every day.”</i>
 </p>
 
-![snake animation](https://github.com/TejKarthik40/TejKarthik40/blob/output/github-contribution-grid-snake.svg)
+---
 
+![snake animation](https://raw.githubusercontent.com/TejKarthik40/TejKarthik40/output/github-contribution-grid-snake.svg)
