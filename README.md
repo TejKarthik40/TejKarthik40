@@ -1,19 +1,117 @@
-# 💫 About Me:
-👋 Hi, I'm Nadella Tej Karthik<br><br>I'm a 3rd year B.Tech student in Computer Science & Engineering (Data Science) at Prasad V. Potluri Siddhartha Institute of Technology, with a strong passion for data science, machine learning, and full-stack development.<br><br>I enjoy building intelligent applications and scalable web systems while continuously strengthening my problem-solving skills through competitive programming and real-world projects. With a CGPA of 9.33/10, I focus on combining solid computer science fundamentals with hands-on experience in cloud, AI, and modern web technologies.<br><br>🚀 What I’m Working On<br><br>Building full-stack MERN applications with real-world features<br><br>Exploring machine learning pipelines and data visualization<br><br>Improving my DSA and competitive programming skills on LeetCode<br><br>💡 Interests & Strengths<br><br>📊 Data Science & Machine Learning<br><br>🌐 Full-Stack Web Development<br><br>☁️ Cloud & Data Engineering fundamentals<br><br>🧠 Problem Solving & Algorithms<br><br>🛠️ Tech Stack<br><br>Languages: Java, Python, C<br>Web: React, Node.js, Express, HTML, CSS, JavaScript<br>Databases: MySQL, MongoDB<br>Data & ML: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn<br>Tools: Git, GitHub, VS Code, Jupyter Notebook<br><br>🏆 Highlights<br><br>AWS Data Engineering & Google AI-ML Virtual Intern (EduSkills)<br><br>Runner-Up in a 10-hour MERN Stack Ideathon (TimeTide Project)<br><br>Top 12.69% coder on LeetCode
+<h1 align="center">Hi 👋, I'm Nadella Tej Karthik</h1>
+<h3 align="center">3rd Year B.Tech Student | CSE (Data Science) | Full-Stack & ML Enthusiast</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nadella-tej-karthik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:23501a4440@pvpsit.ac.in) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TejKarthik40&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TejKarthik40&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TejKarthik40&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+🎓 I’m a **3rd year B.Tech student in Computer Science & Engineering (Data Science)** at  
+**Prasad V. Potluri Siddhartha Institute of Technology** with a CGPA of **9.33 / 10**.
+
+💡 I’m passionate about **Data Science, Machine Learning, and Full-Stack Web Development**.  
+I love building **intelligent applications**, scalable backend systems, and continuously improving my **problem-solving & DSA skills** through competitive programming and real-world projects.
+
+🚀 Currently focusing on:
+- Building **production-ready MERN stack applications**
+- Exploring **machine learning pipelines & data visualization**
+- Strengthening **DSA & competitive programming** on LeetCode
+- Learning more about **cloud & data engineering**
+
+---
+
+## 🧠 Interests & Strengths
+
+- 📊 Data Science & Machine Learning  
+- 🌐 Full-Stack Web Development (MERN)  
+- ☁️ Cloud & Data Engineering Fundamentals  
+- 🧠 Problem Solving & Algorithms  
+- 🤝 Team Collaboration & Leadership  
+
+---
+
+## 🏆 Achievements & Highlights
+
+- 🥈 **Runner-Up** among 60 teams in a **10-hour MERN Stack Ideathon** (TimeTide Project)  
+- 📈 Ranked in the **Top 12.69% on LeetCode** (strong consistency & problem-solving)  
+- ☁️ **AWS Data Engineering Virtual Intern** – EduSkills  
+- 🤖 **Google AI-ML Virtual Intern** – EduSkills  
+- 🎖️ NPTEL Elite & Gold Certified in Java, DBMS & R Programming  
+- 🤝 NSS Volunteer & Student Council Coordinator  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+### 🌐 Web & Backend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+### 📊 Data Science & ML
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23007ACC.svg?style=for-the-badge)
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nadella-tej-karthik)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:23501a4440@pvpsit.ac.in)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)](https://github.com/TejKarthik40)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TejKarthik40&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejKarthik40&theme=radical" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejKarthik40&layout=compact&theme=radical" width="48%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TejKarthik40&theme=radical&no-frame=false&margin-w=10"/>
+</p>
+
+---
+
+## ✍️ Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+<p align="center">
+  <i>“Striving to build impactful software, one commit at a time.”</i>
+</p>
