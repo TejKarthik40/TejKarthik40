@@ -12,6 +12,10 @@
   <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat-square" /></a>
 </p>
 
+<p align="center">
+  <b>🔎 Open to Internships & Software Engineering Opportunities</b>
+</p>
+
 ---
 
 ### 👨‍💻 About
