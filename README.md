@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Nadella%20Tej%20Karthik&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20Full%20Stack%20Developer&descAlignY=65"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nadella+Tej+Karthik;Data+Science+%26+Full+Stack+Developer;3rd+Year+CSE+%28Data+Science%29+Student;Future+Software+Engineer" />
 </p>
 
