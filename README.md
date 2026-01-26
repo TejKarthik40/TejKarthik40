@@ -43,11 +43,14 @@
 
 ---
 
-### 🏆 Achievements
+### 🏆 Highlights
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TejKarthik40&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+- 🥈 Runner-Up – MERN Stack Ideathon (60 teams)  
+- 📈 Top 12.69% on LeetCode  
+- ☁️ AWS Data Engineering Virtual Intern – EduSkills  
+- 🤖 Google AI-ML Virtual Intern – EduSkills  
+- 🎖️ NPTEL Elite & Gold Certified  
+
 ---
 
 <p align="center">
@@ -57,3 +60,6 @@
 <p align="center">
   <i>“Building intelligent systems. Writing clean code. Growing every day.”</i>
 </p>
+
+![snake animation](https://github.com/TejKarthik40/TejKarthik40/blob/output/github-contribution-grid-snake.svg)
+
