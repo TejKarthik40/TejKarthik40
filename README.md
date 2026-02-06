@@ -56,13 +56,14 @@
 ### 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TejKarthik40&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TejKarthik40&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://streak-stats.demolab.com?user=TejKarthik40&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejKarthik40&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TejKarthik40&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
 
 
 ---
