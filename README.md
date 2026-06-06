@@ -23,7 +23,7 @@
 ### 👨‍💻 About
 
 🎓 3rd Year B.Tech in **CSE (Data Science)** at **PVP Siddhartha Institute of Technology**  
-⭐ CGPA: **9.33 / 10**  
+⭐ CGPA: **9.36 / 10**  
 💡 Interested in **Data Science, Machine Learning & Scalable Web Systems**  
 🏆 Top **12.69%** on LeetCode | MERN Ideathon Runner-Up  
 
